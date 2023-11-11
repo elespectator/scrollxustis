@@ -1,0 +1,23 @@
+{
+    "name": "scrollxusti #6",
+    "description": "Inscription 289474 - bitcoinxusti #6",
+    "image": "https://ordinals.com/content/feeada7e27ad5eb000911bc14034bdd36b231906274014230110ca1597c533a1i0",
+    "attributes": [
+      {
+        "trait_type": "Head",
+        "value": "Cap"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Coloured cheeks"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Bender"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Electric blue"
+      }
+    ]
+  }

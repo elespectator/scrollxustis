@@ -1,0 +1,23 @@
+{
+    "name": "scrollxusti #4",
+    "description": "Inscription 289436 - bitcoinxusti #4",
+    "image": "https://ordinals.com/content/6915e45450c89d961b5ca448f13b387f18f4b935e0d79b15822d6f804ad54c3ci0",
+    "attributes": [
+      {
+        "trait_type": "Head",
+        "value": "Toupée"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Mon Dieu!"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Arcade"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Pale brown"
+      }
+    ]
+  }

@@ -1,0 +1,23 @@
+{
+    "name": "scrollxusti #9",
+    "description": "Inscription 290989 - bitcoinxusti #9",
+    "image": "https://ordinals.com/content/2799c60b9f603505a2785044f3fc6a1e2cdb662079595ec41bbccaa58e4601d0i0",
+    "attributes": [
+      {
+        "trait_type": "Head",
+        "value": "Afro"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Mon Dieu!"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Terminator"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Electric blue"
+      }
+    ]
+  }

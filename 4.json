@@ -1,0 +1,23 @@
+{
+    "name": "scrollxusti #3",
+    "description": "Inscription 289451 - bitcoinxusti #3",
+    "image": "https://ordinals.com/content/a21979286f7a759947f87798aa9dbf1188968cdaca1b75f014183f7da6541367i0",
+    "attributes": [
+      {
+        "trait_type": "Head",
+        "value": "Futuristic guzzler helmet"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Mon Dieu!"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Bender"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Orange"
+      }
+    ]
+  }

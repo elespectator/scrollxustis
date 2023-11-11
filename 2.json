@@ -1,0 +1,23 @@
+{
+    "name": "scrollxusti #1",
+    "description": "Inscription 289433 - bitcoinxusti #1",
+    "image": "https://ordinals.com/content/e587f15b33b79d547a0e405cf80bde36a51a77b1440961e2717e0201f67e4034i0",
+    "attributes": [
+      {
+        "trait_type": "Head",
+        "value": "Cap"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Cutie rodent"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Glowing whirl"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Lavender"
+      }
+    ]
+  }

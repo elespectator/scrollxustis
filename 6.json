@@ -1,0 +1,23 @@
+{
+    "name": "scrollxusti #5",
+    "description": "Inscription 289439 - bitcoinxusti #5",
+    "image": "https://ordinals.com/content/87827c203f192c5141d449982fd7a4df3c7c766f48f087c66fe8b0065ff0b347i0",
+    "attributes": [
+      {
+        "trait_type": "Head",
+        "value": "Afro"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Coloured cheeks"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Arcade"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Green"
+      }
+    ]
+  }

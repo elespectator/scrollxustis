@@ -1,0 +1,23 @@
+{
+    "name": "scrollxusti #8",
+    "description": "Inscription 290985 - bitcoinxusti #8",
+    "image": "https://ordinals.com/content/2d83b760c80406ad66083fda076c15c9062acd286e0a9fd7ff320fdbcce715c5i0",
+    "attributes": [
+      {
+        "trait_type": "Head",
+        "value": "Cap"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Scream"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Glowing whirl"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Wild berry"
+      }
+    ]
+  }

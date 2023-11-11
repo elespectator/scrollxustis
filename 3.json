@@ -1,0 +1,23 @@
+{
+    "name": "scrollxusti #2",
+    "description": "Inscription 289522 - bitcoinxusti #2",
+    "image": "https://ordinals.com/content/7a5e20ddb828a6309b56806065f63028bcff103c01878ae167fe193f1be054c7i0",
+    "attributes": [
+      {
+        "trait_type": "Head",
+        "value": "Ears"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Cutie rodent"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Robe"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Turquoise"
+      }
+    ]
+  }

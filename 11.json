@@ -1,0 +1,23 @@
+{
+    "name": "scrollxusti #10",
+    "description": "Inscription 1287412 (The glorious 1sat/vB) - bitcoinxusti #10",
+    "image": "https://ordinals.com/content/7aa9e53d5bf1d0821b8e406eb00cdef6f6924167e64e2a3a9b6e28e59c217435i0",
+    "attributes": [
+      {
+        "trait_type": "Head",
+        "value": "Antennae"
+      },
+      {
+        "trait_type": "Face",
+        "value": "Molar extraction"
+      },
+      {
+        "trait_type": "Body",
+        "value": "Robe"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Ocean blue"
+      }
+    ]
+  }
